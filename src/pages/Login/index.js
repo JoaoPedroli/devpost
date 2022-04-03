@@ -35,7 +35,6 @@ export const Login = () => {
       return;
     }
 
-    // Cadastrando usuário
     signUp(name, email, password);
   }
 
